@@ -1,12 +1,4 @@
-## Welcome to math.info.blog
-```python
-def welcome_to_the_site():
-  '''
-    blog posts about math, computers and finance.
-  '''
-  return "I hope you enjoy the content."
-```
-
+mathjax setup
 
 You can use the [editor on GitHub](https://github.com/math-info-blog/info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
